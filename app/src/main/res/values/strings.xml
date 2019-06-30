@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="camera_permissao">É necessário acesso a câmera para pode executar o aplicativo</string>
+    <string name="sem_permissao_camera">Sem permissão a câmera. A aplicação será finalizada.</string>
+    <!--<string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>-->
+    <string name="app_name">Trabalho3</string>
+    <string name="authors">Matheus O. e Nicolas Z.</string>
+    <string name="barcode_titulo">Clique em &quot;Ler Código de Barras &quot; para ler seu conteúdo</string>
+    <string name="barcode_ler">Ler código de barras</string>
+    <string name="auto_foco">Auto foco</string>
+    <string name="usar_flash">Usar flash</string>
+    <string name="barcode_sucesso">Código de barras lido com sucesso</string>
+    <string name="barcode_falha">Falha ao ler código de barras</string>
+    <string name="barcode_erro">"Erro ao ler código de barras: %1$s"</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_barcode">BarcodeActivity</string>
+    <string name="navigation_drawer_open">Abra a aba de navegação</string>
+    <string name="navigation_drawer_close">Feche a aba de navegação</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_camera">Câmera</string>
+    <string name="menu_database">Banco de Dados</string>
+</resources>

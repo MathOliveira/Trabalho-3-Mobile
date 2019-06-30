@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:design:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\11aa2ecc26829f99d4c903e3d656b2f4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\102f9b1bcdcc3a855aebac30e7d95505\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\771e3644202952376fcc48f309dc4660\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\fbc6256bd20bc1c181b45d7efc9d55bc\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\7fa360cb219106f12c41c0b1edb85e04\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ecb51f07038317ee11052ea8acd3782d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\1adaf6dcbe90928a7b06a5e1beba7d82\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\b15c9dfde649ea5251339525005250c7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\10702702042b4e570da6bc7dd35ea9c5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\92f99e4c06ec4e37501e1ca368ab42fd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\9bdacaef80be2ec252b63fa518e8710c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\89c36b345ed328b864333e5007d1c5fb\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\fa5ae5393aed3d84096ec3d423bc8f69\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\c167c89b9e18c7e303bd44d70ffa0ef7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ac89806b2d47de6a9f463775bbbcac96\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:10:5-45:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\11aa2ecc26829f99d4c903e3d656b2f4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\11aa2ecc26829f99d4c903e3d656b2f4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\102f9b1bcdcc3a855aebac30e7d95505\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\102f9b1bcdcc3a855aebac30e7d95505\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\771e3644202952376fcc48f309dc4660\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\771e3644202952376fcc48f309dc4660\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\fbc6256bd20bc1c181b45d7efc9d55bc\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\fbc6256bd20bc1c181b45d7efc9d55bc\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\7fa360cb219106f12c41c0b1edb85e04\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\7fa360cb219106f12c41c0b1edb85e04\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ecb51f07038317ee11052ea8acd3782d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ecb51f07038317ee11052ea8acd3782d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\1adaf6dcbe90928a7b06a5e1beba7d82\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\1adaf6dcbe90928a7b06a5e1beba7d82\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\b15c9dfde649ea5251339525005250c7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\b15c9dfde649ea5251339525005250c7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\10702702042b4e570da6bc7dd35ea9c5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\10702702042b4e570da6bc7dd35ea9c5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\92f99e4c06ec4e37501e1ca368ab42fd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\92f99e4c06ec4e37501e1ca368ab42fd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\89c36b345ed328b864333e5007d1c5fb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\89c36b345ed328b864333e5007d1c5fb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\fa5ae5393aed3d84096ec3d423bc8f69\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\fa5ae5393aed3d84096ec3d423bc8f69\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\c167c89b9e18c7e303bd44d70ffa0ef7\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\c167c89b9e18c7e303bd44d70ffa0ef7\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ac89806b2d47de6a9f463775bbbcac96\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ac89806b2d47de6a9f463775bbbcac96\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:15:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:17:9-47
+activity#br.ucs.mobile.MainActivity
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:18:9-21:59
+	android:label
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:20:13-56
+	android:theme
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:19:13-41
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\7fa360cb219106f12c41c0b1edb85e04\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\7fa360cb219106f12c41c0b1edb85e04\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:24:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:26:9-28:39
+	android:value
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:27:13-70
+activity#br.ucs.mobile.BarcodeActivity
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:30:9-40:20
+	android:screenOrientation
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:32:13-45
+	android:theme
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:33:13-47
+	android:name
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:31:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:38:27-74
+activity#br.ucs.mobile.BarcodeCaptureActivity
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:41:9-44:52
+	android:screenOrientation
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:43:13-41
+	android:name
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:42:13-51
+uses-sdk
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\11aa2ecc26829f99d4c903e3d656b2f4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\11aa2ecc26829f99d4c903e3d656b2f4\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\102f9b1bcdcc3a855aebac30e7d95505\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\102f9b1bcdcc3a855aebac30e7d95505\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\771e3644202952376fcc48f309dc4660\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\771e3644202952376fcc48f309dc4660\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\fbc6256bd20bc1c181b45d7efc9d55bc\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\fbc6256bd20bc1c181b45d7efc9d55bc\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\7fa360cb219106f12c41c0b1edb85e04\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\7fa360cb219106f12c41c0b1edb85e04\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ecb51f07038317ee11052ea8acd3782d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ecb51f07038317ee11052ea8acd3782d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\1adaf6dcbe90928a7b06a5e1beba7d82\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\1adaf6dcbe90928a7b06a5e1beba7d82\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\b15c9dfde649ea5251339525005250c7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\b15c9dfde649ea5251339525005250c7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\10702702042b4e570da6bc7dd35ea9c5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\10702702042b4e570da6bc7dd35ea9c5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\92f99e4c06ec4e37501e1ca368ab42fd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\92f99e4c06ec4e37501e1ca368ab42fd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\9bdacaef80be2ec252b63fa518e8710c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\9bdacaef80be2ec252b63fa518e8710c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\89c36b345ed328b864333e5007d1c5fb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\89c36b345ed328b864333e5007d1c5fb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\fa5ae5393aed3d84096ec3d423bc8f69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\fa5ae5393aed3d84096ec3d423bc8f69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\c167c89b9e18c7e303bd44d70ffa0ef7\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\c167c89b9e18c7e303bd44d70ffa0ef7\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ac89806b2d47de6a9f463775bbbcac96\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ac89806b2d47de6a9f463775bbbcac96\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ecb51f07038317ee11052ea8acd3782d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\771e3644202952376fcc48f309dc4660\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\771e3644202952376fcc48f309dc4660\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\771e3644202952376fcc48f309dc4660\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\771e3644202952376fcc48f309dc4660\AndroidManifest.xml:20:19-85
