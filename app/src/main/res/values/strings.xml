@@ -23,4 +23,5 @@
     <string name="menu_gallery">Galeria</string>
     <string name="menu_camera">Câmera</string>
     <string name="menu_database">Banco de Dados</string>
+    <string name="title_activity_conteudo">ConteudoActivity</string>
 </resources>

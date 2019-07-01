@@ -12,12 +12,12 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static final int buttonSize = 0x7f020041;
-        public static final int circleCrop = 0x7f020048;
-        public static final int colorScheme = 0x7f020058;
-        public static final int imageAspectRatio = 0x7f020091;
-        public static final int imageAspectRatioAdjust = 0x7f020092;
-        public static final int scopeUris = 0x7f0200d9;
+        public static final int buttonSize = 0x7f020043;
+        public static final int circleCrop = 0x7f02004b;
+        public static final int colorScheme = 0x7f02005b;
+        public static final int imageAspectRatio = 0x7f020098;
+        public static final int imageAspectRatioAdjust = 0x7f020099;
+        public static final int scopeUris = 0x7f020112;
     }
     public static final class color {
         private color() {}
@@ -95,19 +95,19 @@ public final class R {
         public static final int adjust_height = 0x7f070012;
         public static final int adjust_width = 0x7f070013;
         public static final int auto = 0x7f070017;
-        public static final int center = 0x7f07001e;
-        public static final int dark = 0x7f070029;
-        public static final int icon_only = 0x7f070044;
-        public static final int light = 0x7f07004b;
-        public static final int none = 0x7f07005b;
-        public static final int normal = 0x7f07005c;
-        public static final int radio = 0x7f070063;
-        public static final int standard = 0x7f070083;
-        public static final int text = 0x7f07008a;
-        public static final int text2 = 0x7f07008b;
-        public static final int toolbar = 0x7f070092;
-        public static final int wide = 0x7f07009b;
-        public static final int wrap_content = 0x7f07009d;
+        public static final int center = 0x7f07001f;
+        public static final int dark = 0x7f07002e;
+        public static final int icon_only = 0x7f07004c;
+        public static final int light = 0x7f070054;
+        public static final int none = 0x7f070065;
+        public static final int normal = 0x7f070066;
+        public static final int radio = 0x7f070070;
+        public static final int standard = 0x7f070092;
+        public static final int text = 0x7f070099;
+        public static final int text2 = 0x7f07009a;
+        public static final int toolbar = 0x7f0700a1;
+        public static final int wide = 0x7f0700aa;
+        public static final int wrap_content = 0x7f0700ad;
     }
     public static final class integer {
         private integer() {}
@@ -141,11 +141,11 @@ public final class R {
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] LoadingImageView = { 0x7f020048, 0x7f020091, 0x7f020092 };
+        public static final int[] LoadingImageView = { 0x7f02004b, 0x7f020098, 0x7f020099 };
         public static final int LoadingImageView_circleCrop = 0;
         public static final int LoadingImageView_imageAspectRatio = 1;
         public static final int LoadingImageView_imageAspectRatioAdjust = 2;
-        public static final int[] SignInButton = { 0x7f020041, 0x7f020058, 0x7f0200d9 };
+        public static final int[] SignInButton = { 0x7f020043, 0x7f02005b, 0x7f020112 };
         public static final int SignInButton_buttonSize = 0;
         public static final int SignInButton_colorScheme = 1;
         public static final int SignInButton_scopeUris = 2;

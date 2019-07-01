@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="T3.test">
+    package="br.ucs.mobile.Trabalho3.test">
 
     <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="24" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="T3"
+                     android:targetPackage="br.ucs.mobile.Trabalho3"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for T3"/>
+                     android:label="Tests for br.ucs.mobile.Trabalho3"/>
 </manifest>

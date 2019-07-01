@@ -31,6 +31,8 @@ import br.ucs.mobile.camera.CameraSource;
 import br.ucs.mobile.camera.CameraSourcePreview;
 
 import br.ucs.mobile.camera.GraphicOverlay;
+import br.ucs.mobile.database.BDSQLite;
+import br.ucs.mobile.model.ConteudoLido;
 
 import com.google.android.gms.vision.MultiProcessor;
 import com.google.android.gms.vision.barcode.Barcode;
@@ -241,6 +243,13 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
             Intent data = new Intent();
             data.putExtra(ObjectBarcode, best);
             setResult(CommonStatusCodes.SUCCESS, data);
+            //Adiciona ao banco de dados
+            ConteudoLido newConteudo = new ConteudoLido();
+            newConteudo.setConteudoTipo(String.valueOf(best.format));
+            newConteudo.setConteudoCodigoBarras(best.displayValue);
+            BDSQLite bd = new BDSQLite(this);
+            bd.addConteudoLido(newConteudo);
+            //
             finish();
             return true;
         }
