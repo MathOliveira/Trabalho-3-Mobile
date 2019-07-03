@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-51:12
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-50:12
 MERGED from [com.android.support:design:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\11aa2ecc26829f99d4c903e3d656b2f4\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\102f9b1bcdcc3a855aebac30e7d95505\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\771e3644202952376fcc48f309dc4660\AndroidManifest.xml:16:1-24:12
@@ -20,20 +20,20 @@ MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\mathe\.gradle\
 MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\fa5ae5393aed3d84096ec3d423bc8f69\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\c167c89b9e18c7e303bd44d70ffa0ef7\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:support-compat:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\ac89806b2d47de6a9f463775bbbcac96\AndroidManifest.xml:17:1-27:12
-INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-50:12
 	package
 		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:3:5-28
 		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-51:12
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-50:12
 		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-51:12
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:1-50:12
 		INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:2:11-69
@@ -48,7 +48,7 @@ ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\Andro
 	android:name
 		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:8:22-62
 application
-ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:10:5-49:19
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:10:5-48:19
 MERGED from [com.android.support:design:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\11aa2ecc26829f99d4c903e3d656b2f4\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:24.2.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\11aa2ecc26829f99d4c903e3d656b2f4\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\102f9b1bcdcc3a855aebac30e7d95505\AndroidManifest.xml:5:5-20
@@ -94,63 +94,61 @@ MERGED from [com.android.support:support-compat:24.2.0] C:\Users\mathe\.gradle\c
 	android:theme
 		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:17:9-47
 activity#br.ucs.mobile.ConteudoActivity
-ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:18:9-21:59
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:18:9-20:72
 	android:label
 		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:20:13-60
-	android:theme
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:21:13-47
 	android:name
 		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:19:13-45
 activity#br.ucs.mobile.MainActivity
-ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:22:9-31:20
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:21:9-30:20
 	android:label
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:24:13-56
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:23:13-56
 	android:theme
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:25:13-47
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:24:13-47
 	android:name
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:23:13-41
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:22:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:25:13-29:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:28:27-74
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:33:9-35:69
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:32:9-34:69
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\7fa360cb219106f12c41c0b1edb85e04\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\mathe\.gradle\caches\transforms-2\files-2.1\7fa360cb219106f12c41c0b1edb85e04\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:35:13-66
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:34:13-66
 	android:name
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:34:13-58
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:33:13-58
 meta-data#com.google.android.gms.vision.DEPENDENCIES
-ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:36:9-38:39
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:35:9-37:39
 	android:value
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:38:13-36
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:37:13-36
 	android:name
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:37:13-70
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:36:13-70
 activity#br.ucs.mobile.BarcodeActivity
-ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:40:9-44:59
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:39:9-43:59
 	android:screenOrientation
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:43:13-49
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:42:13-49
 	android:label
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:42:13-45
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:41:13-45
 	android:theme
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:44:13-47
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:43:13-47
 	android:name
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:41:13-44
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:40:13-44
 activity#br.ucs.mobile.BarcodeCaptureActivity
-ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:45:9-48:52
+ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:44:9-47:52
 	android:screenOrientation
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:48:13-49
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:47:13-49
 	android:label
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:47:13-41
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:46:13-48
 	android:name
-		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:46:13-51
+		ADDED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml:45:13-51
 uses-sdk
 INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\mathe\Documents\GitHub\Trabalho-3-Mobile-\app\src\main\AndroidManifest.xml

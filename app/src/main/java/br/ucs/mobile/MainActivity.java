@@ -62,13 +62,12 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_home) {
-        } else if (id == R.id.nav_gallery) {
-
         } else if (id == R.id.nav_camera) {
             Intent intent = new Intent(getBaseContext(), BarcodeActivity.class);
             startActivity(intent);
         } else if (id == R.id.nav_database) {
-
+            Intent intent = new Intent(getBaseContext(), ConteudoActivity.class);
+            startActivity(intent);
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

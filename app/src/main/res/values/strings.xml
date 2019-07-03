@@ -13,8 +13,8 @@
     <string name="barcode_sucesso">Código de barras lido com sucesso</string>
     <string name="barcode_falha">Falha ao ler código de barras</string>
     <string name="barcode_erro">"Erro ao ler código de barras: %1$s"</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="title_activity_barcode">BarcodeActivity</string>
+    <string name="title_activity_main">Tela Principal</string>
+    <string name="title_activity_barcode">Tela de Captura</string>
     <string name="navigation_drawer_open">Abra a aba de navegação</string>
     <string name="navigation_drawer_close">Feche a aba de navegação</string>
     <string name="action_settings">Configurações</string>
@@ -23,5 +23,5 @@
     <string name="menu_gallery">Galeria</string>
     <string name="menu_camera">Câmera</string>
     <string name="menu_database">Banco de Dados</string>
-    <string name="title_activity_conteudo">ConteudoActivity</string>
+    <string name="title_activity_conteudo">Conteúdo Activity</string>
 </resources>

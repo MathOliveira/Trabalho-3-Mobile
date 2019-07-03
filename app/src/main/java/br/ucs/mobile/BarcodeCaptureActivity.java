@@ -245,7 +245,49 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
             setResult(CommonStatusCodes.SUCCESS, data);
             //Adiciona ao banco de dados
             ConteudoLido newConteudo = new ConteudoLido();
-            newConteudo.setConteudoTipo(String.valueOf(best.format));
+            switch (best.format) {
+                case 0:
+                    newConteudo.setConteudoTipo("ALL_FORMATS");
+                case 1:
+                    newConteudo.setConteudoTipo("CODE_128");
+                    break;
+                case 2:
+                    newConteudo.setConteudoTipo("CODE_39");
+                    break;
+                case 4:
+                    newConteudo.setConteudoTipo("CODE_93");
+                    break;
+                case 8:
+                    newConteudo.setConteudoTipo("CODABAR");
+                    break;
+                case 16:
+                    newConteudo.setConteudoTipo("DATA_MATRIX");
+                    break;
+                case 32:
+                    newConteudo.setConteudoTipo("EAN_13");
+                    break;
+                case 64:
+                    newConteudo.setConteudoTipo("EAN_8");
+                    break;
+                case 128:
+                    newConteudo.setConteudoTipo("ITF");
+                    break;
+                case 256:
+                    newConteudo.setConteudoTipo("QR_CODE");
+                    break;
+                case 512:
+                    newConteudo.setConteudoTipo("UPC_A");
+                    break;
+                case 1024:
+                    newConteudo.setConteudoTipo("UPC_E");
+                    break;
+                case 2048:
+                    newConteudo.setConteudoTipo("PDF417");
+                    break;
+                case 4096:
+                    newConteudo.setConteudoTipo("AZTEC");
+                    break;
+            }
             newConteudo.setConteudoCodigoBarras(best.displayValue);
             BDSQLite bd = new BDSQLite(this);
             bd.addConteudoLido(newConteudo);

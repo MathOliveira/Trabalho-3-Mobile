@@ -29,10 +29,10 @@ public class ConteudoActivity extends AppCompatActivity {
         recyclerView = (RecyclerView) findViewById(R.id.missions_recycler_view);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
-        this.atualizarListMissions();
+        this.atualizarList();
     }
 
-    public void atualizarListMissions(){
+    public void atualizarList(){
         BDSQLite bd = new BDSQLite(this);
         List<ConteudoLido> conteudos = bd.getAllConteudoLido();
         recyclerView.setAdapter(new ConteudoAdapter(conteudos, R.layout.lista_item_conteudo, this));
@@ -41,7 +41,7 @@ public class ConteudoActivity extends AppCompatActivity {
     @Override
     public void onResume()
     {
-        this.atualizarListMissions();
+        this.atualizarList();
         super.onResume();
     }
 }

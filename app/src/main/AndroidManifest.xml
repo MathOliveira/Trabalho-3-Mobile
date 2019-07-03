@@ -17,8 +17,7 @@
         android:theme="@style/Theme.AppCompat">
         <activity
             android:name=".ConteudoActivity"
-            android:label="@string/title_activity_conteudo"
-            android:theme="@style/NoActionBar"></activity>
+            android:label="@string/title_activity_conteudo"></activity>
         <activity
             android:name=".MainActivity"
             android:label="@string/title_activity_main"
@@ -44,7 +43,7 @@
             android:theme="@style/NoActionBar"></activity>
         <activity
             android:name=".BarcodeCaptureActivity"
-            android:label="Read Barcode"
+            android:label="Ler código de Barra"
             android:screenOrientation="portrait" />
     </application>
 

@@ -831,7 +831,6 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
-id fab
 id fill
 id fill_horizontal
 id fill_vertical
@@ -861,7 +860,6 @@ id missions_recycler_view
 id multiply
 id nav_camera
 id nav_database
-id nav_gallery
 id nav_home
 id nav_view
 id navigation_header_container

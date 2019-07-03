@@ -440,9 +440,9 @@
     <string name="search_menu_title">Search</string>
     <string name="sem_permissao_camera">Sem permissão a câmera. A aplicação será finalizada.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="title_activity_barcode">BarcodeActivity</string>
+    <string name="title_activity_barcode">Tela de Captura</string>
     <string name="title_activity_conteudo">ConteudoActivity</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Tela Principal</string>
     <string name="usar_flash">Usar flash</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
